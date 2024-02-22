@@ -1,2 +1,2 @@
 # NIRAJ
-my sebsite
+my website
